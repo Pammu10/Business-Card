@@ -2,4 +2,4 @@
 
 Site url 
 
-pramodhpammu10.netlify.app
+https://pramodhpammu10.netlify.app
